@@ -1,1 +1,3 @@
 # Lama
+
+# FIRST DAY HERE - 14/06/19
