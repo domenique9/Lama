@@ -1,0 +1,20 @@
+git clone 
+or: git init
+
+git add .
+git commit -m "nonemptymessage" 
+git push origin master
+account
+
+git pull origin master
+
+
+err su canali:
+{
+    "floatx": "float32",
+    "epsilon": 1e-07,
+    "backend": "tensorflow",
+    "image_data_format": "channels_first"
+}
+
+deep learning ian goodfellow bible
